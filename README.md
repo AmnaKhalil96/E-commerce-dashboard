@@ -138,10 +138,10 @@ The following steps are suitable for Windows PowerShell.
 
 ### 1. Clone the repository
 
-Replace `<repository-url>` with the repository URL after publishing the project.
+ `<https://github.com/AmnaKhalil96/E-commerce-dashboard>`.
 
 ```powershell
-git clone <repository-url>
+git clone <https://github.com/AmnaKhalil96/E-commerce-dashboard>
 cd e-commerce-dashboard
 ```
 
@@ -215,5 +215,5 @@ These are suggestions only and are not currently implemented.
 
 ## Author
 
-**Author:** [Your Name]
+**Author:** [Amna Khalil]
 
